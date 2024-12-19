@@ -4,3 +4,8 @@ deveops
 
 ansible
 terraform
+
+transform
+plan 
+apply code
+push
